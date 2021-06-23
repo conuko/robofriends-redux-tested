@@ -1,10 +1,10 @@
 import React, {Component} from 'react';
 
 class CounterButton extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {count: 1};
-  }
+  
+  state = {
+    count: 1
+  };
 
   shouldComponentUpdate(nextProps, nextState) {
     if (this.state.count !== nextState.count) {
