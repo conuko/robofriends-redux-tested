@@ -2,7 +2,9 @@
 
 A fully responsive simple React/Redux App using Redux store, stateful components and lifecycle hooks to look up users from a fake API.
 
-Built with React and Redux. Styled with Tachyons.
+Built with React and Redux.
+Styled with Tachyons.
+Tested with Enzyme and Jest for Snapshot Testing.
 
 ## Getting Started
 
