@@ -10,7 +10,7 @@ Tested with Enzyme and Jest for Snapshot Testing.
 
 To get started right away:
 
-- install all project dependencies with `npm install`
+- install all project dependencies with `npm install` or `yarn install`
 - start the development server with `npm start`
 
 ## Create React App
